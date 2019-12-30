@@ -1,12 +1,11 @@
 Skill,Type,Number of month practiced,Competency Level
-Python,Programming Language,42,92
+Python,Programming Language,60,92
 Java,Programming Language,25,74
 C++,Programming Language,48,56
 JavaScript,Programming Language,36,76
 jQuery,Framework,32,81
 HTML,Programming Language,40,95
 CSS,Programming Language,24,63
-KnockoutJS,Framework,6,50
 SQL,Programming Language,43,78
 Jira,Tool,60,88
 Confluence,Tool,56,75
