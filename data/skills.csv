@@ -9,7 +9,7 @@ CSS,Programming Language,24,63
 SQL,Programming Language,43,78
 Jira,Tool,60,88
 Confluence,Tool,56,75
-PyCharm,Tool,34,86
+PyCharm,Tool,96,86
 Eclipse,Tool,66,68
 Visual Studio,Tool,50,45
 Polarion QA,Tool,36,74
@@ -18,8 +18,10 @@ jUnit,Framework,25,66
 Flask,Framework,33,94
 Vector CANoe,Tool,18,57
 scikit-learn,Framework,5, 15
-Numpy,Framework,6,42
-Pandas,Framework,6,25
+Numpy,Framework,10,42
+Pandas,Framework,10,25
 matplotlib,Framework,6,20
 openCV,Framework,2,10
 BitBucket,Tool,72,83
+git, Tool, 120, 72
+Perforce, Tool, 75, 65
