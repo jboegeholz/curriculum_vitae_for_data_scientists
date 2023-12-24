@@ -2,16 +2,16 @@ type,occupation,institution,start_date,end_date
 fulltime_job,Tontechniker,Landestheater Detmold,2000-01-01,2001-06-30
 education,Praktikant,Weidmüller Interfacetechnik,2001-07-01,2001-07-31
 education,Elektrotechnik,FH Coburg,2001-10-01,2005-08-31
-education,Praktikant QM / QS, Ferrocontrol, 2002-08-01, 2002-09-15
-education,Praktikant im Praxissemester, VCS Engineering, 2003-10-01, 2004-02-28
-fulltime_job,Referent für ausbildungsbegleitende Hilfen, bfz gGmbH, 2004-10-01, 2005-08-31
+education,Praktikant QM / QS,Ferrocontrol, 2002-08-01, 2002-09-15
+education,Praktikant im Praxissemester,VCS Engineering, 2003-10-01, 2004-02-28
+fulltime_job,Referent für ausbildungsbegleitende Hilfen,bfz gGmbH, 2004-10-01, 2005-08-31
 fulltime_job,Software Engineer,Harman Becker Automotive Systems,2005-09-01,2009-08-31
-fulltime_job,Software Tester, mgm Technology Partners, 2009-09-01,2011-03-31
+fulltime_job,Software Tester,mgm Technology Partners, 2009-09-01,2011-03-31
 education,Student Wirtschaftswissenschaften,Fernuni Hagen,2010-04-01,2016-10-31
-parttime_self_employed,Gitarrenlehrer, Prestissimo, 2010-06-30, 2011-03-31
-fulltime_self_employed,Gitarrenlehrer, Prestissimo, 2011-04-01, 2012-08-31
-parttime_self_employed,Gitarrenlehrer, Prestissimo, 2012-09-01, 2016-04-30
-fulltime_job,Senior Software Engineer / Teilprojektleiter FPK-Testing, e.solutions GmbH, 2012-09-01, 2014-08-31
-fulltime_job,Senior Software Engineer / Testkoordinator Standort Erlangen FPK-Testing, e.solutions GmbH, 2014-09-01, 2015-12-31
-fulltime_job,Manager Roadtest, e.solutions GmbH,2016-01-01,2017-03-31
-fulltime_job,Manager DevSupport,e.solutions GmbH,2017-04-01,2018-12-31
+parttime_self_employed,Gitarrenlehrer,Prestissimo, 2010-06-30, 2011-03-31
+fulltime_self_employed,Gitarrenlehrer,Prestissimo, 2011-04-01, 2012-08-31
+parttime_self_employed,Gitarrenlehrer,Prestissimo, 2012-09-01, 2016-04-30
+fulltime_job,Senior Software Engineer / Teilprojektleiter FPK-Testing,e.solutions GmbH, 2012-09-01, 2014-08-31
+fulltime_job,Senior Software Engineer / Testkoordinator Standort Erlangen FPK-Testing,e.solutions GmbH, 2014-09-01, 2015-12-31
+fulltime_job,Manager Roadtest,e.solutions GmbH,2016-01-01,2017-03-31
+fulltime_job,Manager DevSupport,e.solutions GmbH,2017-04-01,2023-12-31

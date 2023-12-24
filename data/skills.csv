@@ -1,5 +1,5 @@
 Skill,Type,Number of month practiced,Competency Level
-Python,Programming Language,60,92
+Python,Programming Language,96,92
 Java,Programming Language,25,74
 C++,Programming Language,48,56
 JavaScript,Programming Language,36,76
@@ -22,4 +22,4 @@ Numpy,Framework,6,42
 Pandas,Framework,6,25
 matplotlib,Framework,6,20
 openCV,Framework,2,10
-
+BitBucket,Tool,72,83
