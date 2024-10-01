@@ -1,7 +1,7 @@
 Skill,Type,Number of month practiced,Competency Level
-Python,Programming Language,96,92
-Java,Programming Language,25,74
-C++,Programming Language,48,56
+Python,Programming Language,108,92
+Java,Programming Language,52,74
+C++,Programming Language,35,56
 JavaScript,Programming Language,36,76
 jQuery,Framework,32,81
 HTML,Programming Language,40,95
@@ -11,20 +11,16 @@ Kotlin,Programming Language,20,60
 Jira,Tool,60,88
 Confluence,Tool,56,75
 PyCharm,Tool,96,86
-Eclipse,Tool,66,68
 Visual Studio,Tool,50,45
-Polarion QA,Tool,36,74
-Selenium,Framework,32,83
+Selenium,Framework,32,70
 jUnit,Framework,25,66
-Flask,Framework,33,94
-Vector CANoe,Tool,18,57
-scikit-learn,Framework,5, 15
-Numpy,Framework,10,42
-Pandas,Framework,10,25
-matplotlib,Framework,6,20
-openCV,Framework,4,10
-ROS 1,Framework,3,10
-ROS 2, Framework,2, 2
+Flask,Framework,50,94
+scikit-learn,Framework,10,35
+Numpy,Framework,12,45
+Pandas,Framework,12,40
+matplotlib,Framework,12,37
+openCV,Framework,4,25
+ROS 1,Framework,3,15
+ROS 2,Framework,2,10
 BitBucket,Tool,72,83
-git, Tool, 120, 72
-Perforce, Tool, 75, 65
+git,Tool,80,72
