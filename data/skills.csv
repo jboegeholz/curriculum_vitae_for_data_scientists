@@ -22,7 +22,9 @@ scikit-learn,Framework,5, 15
 Numpy,Framework,10,42
 Pandas,Framework,10,25
 matplotlib,Framework,6,20
-openCV,Framework,2,10
+openCV,Framework,4,10
+ROS 1,Framework,3,10
+ROS 2, Framework,2, 2
 BitBucket,Tool,72,83
 git, Tool, 120, 72
 Perforce, Tool, 75, 65
